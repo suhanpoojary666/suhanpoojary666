@@ -6,5 +6,11 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/suhanpoojary666/suhanpoojary666/output/github-snake.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhanpoojary666/suhanpoojary666/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhanpoojary666/suhanpoojary666/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/suhanpoojary666/suhanpoojary666/output/pacman-contribution-graph.svg" />
+</picture>
+
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,django,postgres,mysql,redis,docker,nginx,git,github,vercel,postman&perline=15)](https://skillicons.dev)
