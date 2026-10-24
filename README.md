@@ -4,5 +4,5 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/suhanpoojary666/suhanpoojary666/output/github-snake.svg" />
 </picture>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanpoojary666&show_icons=true&theme=transparent)
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,django,postgres,mysql,redis,docker,nginx,git,github,linux,vercel,postman&perline=7)](https://skillicons.dev)
