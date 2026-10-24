@@ -5,4 +5,4 @@
 </picture>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanpoojary666&show_icons=true&theme=transparent)
