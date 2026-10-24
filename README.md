@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=github+%3A+suhanpoojary666)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome)](https://git.io/typing-svg)
+![Animated banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=suhanpoojary666&fontSize=38&animation=twinkling)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhanpoojary666/suhanpoojary666/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhanpoojary666/suhanpoojary666/output/github-snake.svg" />
