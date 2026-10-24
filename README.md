@@ -5,4 +5,4 @@
 </picture>
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,django,postgres,mysql,redis,docker,nginx,git,github,linux,vercel,postman&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,django,postgres,mysql,redis,docker,nginx,git,github,vercel,postman&perline=15)](https://skillicons.dev)
